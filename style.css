@@ -1,0 +1,38 @@
+ body { 
+    background: #B0D0D3;
+    
+font-family: 'Zilla Slab', serif;
+font-family: 'Indie Flower', cursive;
+font-family: 'Shadows Into Light', cursive;
+}
+
+h1 {
+   color: red;
+}
+
+h1 { 
+    font-size: 46px;
+}
+
+img {
+    display: block;
+}
+
+img {
+    display: block;
+    height: 300px;
+    width:  350px;
+}
+
+.text {
+    display: block;
+    height: 275px;
+    width:  770px;
+}
+
+#header {
+   background: #6B6D76;
+   width:      600px;
+   
+}
+
